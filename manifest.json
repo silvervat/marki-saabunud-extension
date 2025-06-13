@@ -7,7 +7,7 @@
       "id": "mark-received",
       "title": "MÄRGI SAABUNUD",
       "icon": "check.svg",
-      "visible": false
+      "visible": true
     }
   ]
 }
