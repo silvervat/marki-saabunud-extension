@@ -1,0 +1,13 @@
+{
+  "name": "Märgi saabunud extension",
+  "version": "1.0.0",
+  "main": "main.js",
+  "menu": [
+    {
+      "id": "mark-received",
+      "title": "MÄRGI SAABUNUD",
+      "icon": "check.svg",
+      "visible": false
+    }
+  ]
+}
